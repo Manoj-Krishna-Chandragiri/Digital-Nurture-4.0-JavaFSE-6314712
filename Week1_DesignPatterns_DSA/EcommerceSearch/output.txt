@@ -1,0 +1,2 @@
+Linear Search: Found Book
+Binary Search: Found Book
